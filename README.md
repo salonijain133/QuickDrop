@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 [![Tech](https://img.shields.io/badge/stack-MERN-blueviolet)]()
 
-**PasteBox** is a modern file-sharing and storage platform that lets users instantly upload files and generate short, shareable download links or QR codes. With a clean UI, lightning-fast uploads (via AWS), and optional user authentication, PasteBox is designed for both casual and power users.
+**QuickDrop** is a modern file-sharing and storage platform that lets users instantly upload files and generate short, shareable download links or QR codes. With a clean UI, lightning-fast uploads (via AWS), and optional user authentication, QuickDrop is designed for both casual and power users.
 
 Live Demo (Coming Soon) | Powered by MERN + AWS
 
